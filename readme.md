@@ -2,6 +2,7 @@
 composer install
 php artisan migrate
 composer dump-autoload
+php artisan command:insert_users_data
 php artisan serve
 
 

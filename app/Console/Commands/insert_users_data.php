@@ -4,14 +4,14 @@ namespace App\Console\Commands;
 
 use Illuminate\Console\Command;
 
-class product_bucketing_details_column_update extends Command {
+class insert_users_data extends Command {
 
     /**
      * The name and signature of the console command.
      *
      * @var string
      */
-    protected $signature = 'command:product_bucketing_details_column_update';
+    protected $signature = 'command:insert_users_data';
 
     /**
      * The console command description.

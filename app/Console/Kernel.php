@@ -13,7 +13,7 @@ class Kernel extends ConsoleKernel
      * @var array
      */
     protected $commands = [
-        \App\Console\Commands\product_bucketing_details_column_update::class,
+        \App\Console\Commands\insert_users_data::class,
     ];
 
     /**
